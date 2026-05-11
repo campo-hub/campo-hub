@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://campo-hub.github.io/campoub",
+  "homepage": "https://campo-hub.github.io/campo-hub",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
